@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [WinAmp](https://www.winamp.com/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [WinAmp](https://www.winamp.com/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://github.com/veevyo/dracula-winamp/assets/41368076/84d50eed-2a92-4061-966c-1a80e6179a90)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/winamp](https://draculatheme.com/winamp).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![veevyo](https://github.com/veevyo.png?size=100)](https://github.com/veevyo) | 
+| ---------------------------------------------------------------------------------------- |
+| [veevyo](https://github.com/veevyo)                                               | 
 
 ## Community
 
